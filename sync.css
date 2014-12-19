@@ -1,0 +1,40 @@
+.noty_message {
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+div#st_sync ul {
+    list-style: none inside;
+    padding: 0 6px;
+    margin: 0;
+}
+
+div#st_sync ul > li {
+    padding: 2px 0;
+}
+
+div#st_sync form ul label {
+    display: inline-block;
+    width: 35%;
+}
+
+div#st_sync form ul input, div#st_sync form ul select {
+    width: 60%;
+    width: calc(65% - 10px);
+    margin: 0;
+}
+
+div#st_sync form ul input.browse {
+    width: 50%;
+    width: calc(50% - 10px);
+    margin: 0;
+}
+
+div#st_sync form ul input.browse_btn {
+    width: 10%;
+    width: calc(15% - 18px);
+    margin-left: 8px;
+}
+
+
+

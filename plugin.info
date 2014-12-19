@@ -1,0 +1,5 @@
+plugin.description: This plugin allows you to synchronize files remotely via the interface ruTorrent.
+plugin.author: ArthurJam
+plugin.version: 0.1
+rtorrent.external.error: curl,php
+plugin.dependencies: _task
