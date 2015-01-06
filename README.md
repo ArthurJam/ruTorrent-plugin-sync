@@ -28,7 +28,8 @@ git clone https://github.com/ArthurJam/ruTorrent-plugin-sync.git sync
 Usage
 -----
 
-Right click on torrent list or file list and use Sync menu.
+1. Configure FTP hosts in the settings.
+2. Right click on torrents list or on files list and use Sync menu.
 
 Known issues
 ------------
